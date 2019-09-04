@@ -1,3 +1,3 @@
 running instructions:
 mvn package
-calculator/target/calculator-1.0-SNAPSHOT.jar
+java -cp target/calculator-1.0-SNAPSHOT.jar calculator.CalculatorApp
